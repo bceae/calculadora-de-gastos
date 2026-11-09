@@ -12,4 +12,3 @@ def clasificar_gasto(total_gastos):
         return print("gastos modertados")
     else:
         return "Gasto elevado"
-
